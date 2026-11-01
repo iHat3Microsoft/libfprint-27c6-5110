@@ -2,11 +2,11 @@
 # Contributor: 0x00002a <markus@optiikka.io>
 
 pkgname=libfprint-goodixtls511-git
-pkgver=r1813.8c36740
+pkgver=r1819.9e99e4a
 pkgrel=1
 pkgdesc="libfprint with Goodix GF511 (27c6:5110) TLS fingerprint sensor driver"
 arch=('x86_64')
-url="https://github.com/buxel/libfprint.git"
+url="https://github.com/iHat3Microsoft/libfprint.git"
 license=('LGPL-2.1-or-later')
 
 # Replaces the official libfprint so fprintd and pam_fprintd keep working
